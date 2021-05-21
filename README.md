@@ -19,3 +19,4 @@ In the future I want to be a front-end developer, now I working hard and improve
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
+<img src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" align="center" width="600">

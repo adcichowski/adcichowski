@@ -3,8 +3,11 @@
 My name is Adam. I am working online pharmacy Gemini in Gdańsk.
 In the future I want to be a front-end developer, now I working hard and improve my skills. My hobby is programming and playing World of Warcraft to get clean in the brain, after a day.
 <div>
-<img src="https://png2.cleanpng.com/sh/0eea4bc3f47fc2d107b48cc0a16abebd/L0KzQYm4UcEzN6Ftj5H0aYP2gLBuTgdwep1pRdHvLYfkgrT5gfZ1NZ5uiAZ8LXBpPcHojvRieppmRdH7ZHGwgLF5lPFjdJYygdDtZYiwf7e0kPFzaZVuf99CcD3mf7B7hf51faFxh9Ntc0KwQYW4TcVjbZI2SKI6Y0Xpcbe9Tsc4P2E6T6sEMUW3QoG9VsE4P2k2SKs3cH7q/kisspng-world-of-warcraft-mists-of-pandaria-orda-portable-index-of-paradigmwp-contentuploads2-141-5bea1001c5faf6.7770579915420661778109.png" align="center" width="60"> <span >For the Horde!</span>
+<img src="https://png2.cleanpng.com/sh/0eea4bc3f47fc2d107b48cc0a16abebd/L0KzQYm4UcEzN6Ftj5H0aYP2gLBuTgdwep1pRdHvLYfkgrT5gfZ1NZ5uiAZ8LXBpPcHojvRieppmRdH7ZHGwgLF5lPFjdJYygdDtZYiwf7e0kPFzaZVuf99CcD3mf7B7hf51faFxh9Ntc0KwQYW4TcVjbZI2SKI6Y0Xpcbe9Tsc4P2E6T6sEMUW3QoG9VsE4P2k2SKs3cH7q/kisspng-world-of-warcraft-mists-of-pandaria-orda-portable-index-of-paradigmwp-contentuploads2-141-5bea1001c5faf6.7770579915420661778109.png" align="center" width="20">For the Horde!</span>
 </div>
+<a href="https://github-readme-stats.vercel.app/api?username=adcichowski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adcichowski" />
+</a>
 <h2>I code with...</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -19,4 +22,4 @@ In the future I want to be a front-end developer, now I working hard and improve
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-<img src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" align="center" width="600">
+<img src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" width="500">

@@ -10,7 +10,7 @@ In the future I want to be a front-end developer, now I working hard and improve
 <img src="https://png2.cleanpng.com/sh/0eea4bc3f47fc2d107b48cc0a16abebd/L0KzQYm4UcEzN6Ftj5H0aYP2gLBuTgdwep1pRdHvLYfkgrT5gfZ1NZ5uiAZ8LXBpPcHojvRieppmRdH7ZHGwgLF5lPFjdJYygdDtZYiwf7e0kPFzaZVuf99CcD3mf7B7hf51faFxh9Ntc0KwQYW4TcVjbZI2SKI6Y0Xpcbe9Tsc4P2E6T6sEMUW3QoG9VsE4P2k2SKs3cH7q/kisspng-world-of-warcraft-mists-of-pandaria-orda-portable-index-of-paradigmwp-contentuploads2-141-5bea1001c5faf6.7770579915420661778109.png" align="center" width="20">- For the Horde!</li>
 <div>
   </ul>
-  <img src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" align='right' width="300">
+  <img src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" align='right' width="400">
 
 </div>
 <h2>I code with...</h2>

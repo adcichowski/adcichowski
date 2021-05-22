@@ -1,4 +1,4 @@
-<h1> Hello there </h1>
+<h1 align="bottom"> Hi there <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3166_IlZBq7MYilwdaqfqnmEcTNOuppcpi2c6.gif" align="top" width="40"></h1>
 
 My name is Adam. I am working online pharmacy Gemini in Gdańsk.
 In the future I want to be a front-end developer, now I working hard and improve my skills. My hobby is programming and playing World of Warcraft to get clean in the brain, after a day.

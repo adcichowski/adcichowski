@@ -2,14 +2,19 @@
 
 My name is Adam. I am working online pharmacy Gemini in Gdańsk.
 In the future I want to be a front-end developer, now I working hard and improve my skills. My hobby is programming and playing World of Warcraft to get clean in the brain, after a day.
-<uL align='left'>
-<span position="bottom">  <image src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3112_bTguoiXw35AXrsGi7GbKg2QpTXOb0fjZ.gif"  alt="Pancakes" width="40"/> - when I make this dish does very well taste always </span>
+<ul>
+<li>💬- You can easily write me any question you want </li>
+<li>🔥- Day after the day I just improve knowledge myself to be better </li>
+<li>🥞- When I make this dish does very well taste always </li>
+<li>
+<img src="https://png2.cleanpng.com/sh/0eea4bc3f47fc2d107b48cc0a16abebd/L0KzQYm4UcEzN6Ftj5H0aYP2gLBuTgdwep1pRdHvLYfkgrT5gfZ1NZ5uiAZ8LXBpPcHojvRieppmRdH7ZHGwgLF5lPFjdJYygdDtZYiwf7e0kPFzaZVuf99CcD3mf7B7hf51faFxh9Ntc0KwQYW4TcVjbZI2SKI6Y0Xpcbe9Tsc4P2E6T6sEMUW3QoG9VsE4P2k2SKs3cH7q/kisspng-world-of-warcraft-mists-of-pandaria-orda-portable-index-of-paradigmwp-contentuploads2-141-5bea1001c5faf6.7770579915420661778109.png" align="center" width="20">- For the Horde!</li>
+<div>
   </ul>
-<div>
-  <img src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" align='right' width="500">
-<img src="https://png2.cleanpng.com/sh/0eea4bc3f47fc2d107b48cc0a16abebd/L0KzQYm4UcEzN6Ftj5H0aYP2gLBuTgdwep1pRdHvLYfkgrT5gfZ1NZ5uiAZ8LXBpPcHojvRieppmRdH7ZHGwgLF5lPFjdJYygdDtZYiwf7e0kPFzaZVuf99CcD3mf7B7hf51faFxh9Ntc0KwQYW4TcVjbZI2SKI6Y0Xpcbe9Tsc4P2E6T6sEMUW3QoG9VsE4P2k2SKs3cH7q/kisspng-world-of-warcraft-mists-of-pandaria-orda-portable-index-of-paradigmwp-contentuploads2-141-5bea1001c5faf6.7770579915420661778109.png" align="center" width="20">For the Horde!</span>
+  <img src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" align='right' width="400">
+
 </div>
-<div>
+<div align="bottom">
+ <h2>My stats </h2>
 <a href="https://github-readme-stats.vercel.app/api?username=adcichowski">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adcichowski" />
 </a>

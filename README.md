@@ -13,12 +13,6 @@ In the future I want to be a front-end developer, now I working hard and improve
   <img src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" align='right' width="300">
 
 </div>
-<div align="bottom">
- <h2>My stats </h2>
-<a href="https://github-readme-stats.vercel.app/api?username=adcichowski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adcichowski" />
-</a>
-  </div>
 <h2>I code with...</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -33,4 +27,11 @@ In the future I want to be a front-end developer, now I working hard and improve
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
+<div align="bottom">
+ <h2>My stats </h2>
+<a href="https://github-readme-stats.vercel.app/api?username=adcichowski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adcichowski" />
+</a>
+  </div>
+
 

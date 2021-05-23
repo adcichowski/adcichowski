@@ -1,9 +1,9 @@
 <h1> Hello there! <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3166_IlZBq7MYilwdaqfqnmEcTNOuppcpi2c6.gif" align="top" width="40"></h1>
   <a href="">
-  <img src="https://github.com/adcichowski/adcichowski/blob/main/pictures/discord.svg" width="40">
+  <img src="https://github.com/adcichowski/adcichowski/blob/main/pictures/discord.svg"  width="30">
   </a>
   <a href="">
-  <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3166_IlZBq7MYilwdaqfqnmEcTNOuppcpi2c6.gif" width="40">
+  <img src="https://github.com/adcichowski/adcichowski/blob/main/pictures/linkedin.svg" width="32.5">
   </a>
 <p>
 My name is Adam. I am working online pharmacy Gemini in Gdańsk.

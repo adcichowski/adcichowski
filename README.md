@@ -1,19 +1,19 @@
-<h1> Hi there <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3166_IlZBq7MYilwdaqfqnmEcTNOuppcpi2c6.gif" align="center" width="40"></h1>
-
+<h1> Hello there! <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3166_IlZBq7MYilwdaqfqnmEcTNOuppcpi2c6.gif" align="top" width="40"></h1>
+<img src="https://visitor-badge.glitch.me/badge?page_id=adcichowski.adcichowski"/>
+  <a href="">
+  <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3166_IlZBq7MYilwdaqfqnmEcTNOuppcpi2c6.gif" align="top" width="40">
+  </a>
+  <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3166_IlZBq7MYilwdaqfqnmEcTNOuppcpi2c6.gif" align="top" width="40">
+  <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3166_IlZBq7MYilwdaqfqnmEcTNOuppcpi2c6.gif" align="top" width="40">
+<p>
 My name is Adam. I am working online pharmacy Gemini in Gdańsk.
-In the future I want to be a front-end developer, now I working hard and improve my skills. My hobby is programming and playing World of Warcraft to get clean in the brain, after a day.
+In the future I want to be a front-end developer, now I working hard and improve my skills. My hobby is programming and playing  <img src="https://png2.cleanpng.com/sh/0eea4bc3f47fc2d107b48cc0a16abebd/L0KzQYm4UcEzN6Ftj5H0aYP2gLBuTgdwep1pRdHvLYfkgrT5gfZ1NZ5uiAZ8LXBpPcHojvRieppmRdH7ZHGwgLF5lPFjdJYygdDtZYiwf7e0kPFzaZVuf99CcD3mf7B7hf51faFxh9Ntc0KwQYW4TcVjbZI2SKI6Y0Xpcbe9Tsc4P2E6T6sEMUW3QoG9VsE4P2k2SKs3cH7q/kisspng-world-of-warcraft-mists-of-pandaria-orda-portable-index-of-paradigmwp-contentuploads2-141-5bea1001c5faf6.7770579915420661778109.png" align="center" width="25"> World of Warcraft  to get clean in the brain, after a day.</p>
 <ul>
 <li>💬- You can easily write me any question you want </li>
 <li>🔥- Day after the day I just improve knowledge myself to be better </li>
-<li>🥞- When I make this dish does very well taste always </li>
-<li>
-  
-<img src="https://png2.cleanpng.com/sh/0eea4bc3f47fc2d107b48cc0a16abebd/L0KzQYm4UcEzN6Ftj5H0aYP2gLBuTgdwep1pRdHvLYfkgrT5gfZ1NZ5uiAZ8LXBpPcHojvRieppmRdH7ZHGwgLF5lPFjdJYygdDtZYiwf7e0kPFzaZVuf99CcD3mf7B7hf51faFxh9Ntc0KwQYW4TcVjbZI2SKI6Y0Xpcbe9Tsc4P2E6T6sEMUW3QoG9VsE4P2k2SKs3cH7q/kisspng-world-of-warcraft-mists-of-pandaria-orda-portable-index-of-paradigmwp-contentuploads2-141-5bea1001c5faf6.7770579915420661778109.png" align="center" width="20">- For the Horde!</li>
-<div>
+<li>🥞- When I make this dish does very well taste always (chocolate panckes)</li>
   </ul>
-  <img src="https://github.com/adcichowski/adcichowski/blob/main/blogging.svg" align='right' width="500">
-
-</div>
+  <img src="https://github.com/adcichowski/adcichowski/blob/main/blogging.svg" align='right' width="450">
 <h2>I code with...</h2>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -28,13 +28,9 @@ In the future I want to be a front-end developer, now I working hard and improve
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-<div align="bottom">
- <h2>My stats </h2>
-<a href="https://github-readme-stats.vercel.app/api?username=adcichowski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adcichowski" />
-</a>
-  <a href="https://github-readme-stats.vercel.app/api?username=adcichowski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adcichowski&layout=compact" />
+<h3>📧 Cotact with me</h3>
+  <a align="center" href="https://github-readme-stats.vercel.app/api?username=adcichowski">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adcichowski&layout=compact" />
 </a>
 
   </div>

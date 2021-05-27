@@ -7,7 +7,7 @@
   </a>
 <p>
 My name is Adam. I am working online pharmacy Gemini in Gdańsk.
-In the future I want to be a front-end developer, now I working hard and improve my skills. My hobby is programming and playing  <img src="https://png2.cleanpng.com/sh/0eea4bc3f47fc2d107b48cc0a16abebd/L0KzQYm4UcEzN6Ftj5H0aYP2gLBuTgdwep1pRdHvLYfkgrT5gfZ1NZ5uiAZ8LXBpPcHojvRieppmRdH7ZHGwgLF5lPFjdJYygdDtZYiwf7e0kPFzaZVuf99CcD3mf7B7hf51faFxh9Ntc0KwQYW4TcVjbZI2SKI6Y0Xpcbe9Tsc4P2E6T6sEMUW3QoG9VsE4P2k2SKs3cH7q/kisspng-world-of-warcraft-mists-of-pandaria-orda-portable-index-of-paradigmwp-contentuploads2-141-5bea1001c5faf6.7770579915420661778109.png" align="center" width="25"> World of Warcraft  to get clean in the brain, after a day.</p>
+In the future I want to be a front-end developer, now I working hard and improve my skills. My hobby is programming and playingWorld of Warcraft  to get clean in the brain, after a day.</p>
 <ul>
 <li>💬- You can easily write me any question you want </li>
 <li>🔥- Day after the day I just improve knowledge myself to be better </li>

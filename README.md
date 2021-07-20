@@ -19,6 +19,7 @@ My name is Adam. I am working online pharmacy Gemini in Gdańsk. In the future I
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="firebase" src="https://img.shields.io/badge/-Firebase-FFCB2B?style=flat-square&logo=firebase&logoColor=white"/>
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel" />

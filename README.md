@@ -7,11 +7,6 @@
   </a>
 <p>
 My name is Adam. I am working online pharmacy Gemini in Gdańsk. In the future I want to be a front-end developer, now I working hard and improve my skills. Despite normal work in a week, I spend a lot of time programming to get knowledge and experience.</p>
-<ul>
-<li>💬- You can easily write me any question you want </li>
-<li>🔥- Day after the day I just improve knowledge myself to be better </li>
-<li>🥞- When I make this dish does very well taste always (chocolate panckes)</li>
-  </ul>
   <img src="https://github.com/adcichowski/adcichowski/blob/main/blogging.svg" align='right' width="450">
 <h2>I code with...</h2>
 <p>

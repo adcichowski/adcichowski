@@ -27,7 +27,6 @@ My name is Adam. I am working online pharmacy Gemini in Gdańsk. In the future I
   <a align="center" href="https://github-readme-stats.vercel.app/api?username=adcichowski">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adcichowski&layout=compact" />
 </a>
-![Jokes Card](https://readme-jokes.vercel.app/api)
   </div>
 
 

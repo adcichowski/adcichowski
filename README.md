@@ -2,7 +2,7 @@
   <a href="">
   <img src="https://github.com/adcichowski/adcichowski/blob/main/pictures/discord.svg"  width="30">
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/adam-cichowski-4916981b7/">
   <img src="https://github.com/adcichowski/adcichowski/blob/main/pictures/linkedin.svg" width="32.5">
   </a>
 <p>

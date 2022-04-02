@@ -1,17 +1,41 @@
-<h1> Hello there! <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3166_IlZBq7MYilwdaqfqnmEcTNOuppcpi2c6.gif" align="top" width="40"></h1>
-  <a href="">
-  <img src="https://github.com/adcichowski/adcichowski/blob/main/pictures/discord.svg"  width="30">
-  </a>
-  <a href="https://www.linkedin.com/in/adam-cichowski-4916981b7/">
-  <img src="https://github.com/adcichowski/adcichowski/blob/main/pictures/linkedin.svg" width="32.5">
-  </a>
-<p>
-My name is Adam. I am working online pharmacy Gemini in Gdańsk. In the future I want to be a front-end developer, now I working hard and improve my skills. Despite normal work in a week, I spend a lot of time programming to get knowledge and experience.</p>
-  <img src="https://github.com/adcichowski/adcichowski/blob/main/blogging.svg" align='right' width="450">
-<h2>I code with...</h2>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  
+# Hey folks, I'm Adam 👋
+
+<a target="_blank" href="https://www.linkedin.com/in/adcichowski/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:adam.cichowski7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+
+![](https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Competitive+Programmer;Person+Loving+Dogs;Always%20Learning%20New%20Things&width=500&height=50)
+
+ I have a passion for programming and technology,
+ spend a lot of time programming to get knowledge and experience.
+ 
+
+ <img src="https://github.com/adcichowski/adcichowski/blob/main/blogging.svg" align='right' width="420">
+ 
+## Code with
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org)[![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)](https://developer.mozilla.org/docs/HTML/HTML5) [![SCSS Badge](https://img.shields.io/badge/-SCSS-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](https://sass-lang.com)
+
+
+[<img align="left" alt="Next.js" width="26px" src="https://i.ibb.co/Qnrf4Qn/Frame-26.png" />](https://nextjs.org)
+[<img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/71249791/161400064-48946911-a27a-454a-a501-9ea21ceafe2b.png" />](https://www.postgresql.org/)
+[<img alt="Prisma" align="left" width="26px" src="https://user-images.githubusercontent.com/71249791/161400184-370fdd40-95f4-43d7-ab5a-ee9e055ec11f.png" />](https://www.prisma.io/)
+[<img alt="CSS3" align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" />](https://developer.mozilla.org/pl/docs/Web/CSS)
+[<img alt="Jest" align="left" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" />](https://jestjs.io/)
+[<img alt="Cypress" align="left" width="30px" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" />](https://www.cypress.io/)
+[<img alt="JavaScript" align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />](https://javascript.info/)
+[<img alt="Git" align="left" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/)
+<br/>
+
+## Tools
+
+
+[<img align="left" alt="Postman" width="26px" src="https://user-images.githubusercontent.com/71249791/161400371-bb231abc-ed71-4de5-80da-cf5580dbdf9b.png" />](https://www.prisma.io/)
+[<img align="left" alt="Prettier" width="28px" src="https://avatars.githubusercontent.com/u/25822731?s=280&v=4" />](https://prettier.io/)
+[<img align="left" alt="DataGrip" width="26px" src="https://seeklogo.com/images/D/datagrip-logo-295CA63255-seeklogo.com.png" />](https://www.jetbrains.com/datagrip/)
+
+
+
+<!--   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/-Firebase-FFCB2B?style=flat-square&logo=firebase&logoColor=white"/>
@@ -21,12 +45,8 @@ My name is Adam. I am working online pharmacy Gemini in Gdańsk. In the future I
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-</p>
-<h3>📧 Cotact with me</h3>
-  <a align="center" href="https://github-readme-stats.vercel.app/api?username=adcichowski">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adcichowski&layout=compact" />
-</a>
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" /> -->
+
   </div>
 
 

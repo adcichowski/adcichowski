@@ -29,9 +29,10 @@
 [<img alt="JavaScript" align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />](https://javascript.info/)
 [<img alt="Git" align="left" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />](https://git-scm.com/)
 [<img alt="RTL" align="left" width="30px" src="https://testing-library.com/img/octopus-128x128.png" />](https://testing-library.com/docs/react-testing-library/intro/)
-[<img alt="Gsap" align="left" width="26px" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo-man.svg" />](https://greensock.com/)
+[<img alt="Webpack" align="left" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon.png" />](https://webpack.js.org/)
+[<img alt="Gsap" width="26px" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/16327/logo-man.svg" />](https://greensock.com/)
 
-<br/>
+
 
 ## Tools
 

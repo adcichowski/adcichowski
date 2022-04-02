@@ -32,7 +32,8 @@
 [<img align="left" alt="Postman" width="26px" src="https://user-images.githubusercontent.com/71249791/161400371-bb231abc-ed71-4de5-80da-cf5580dbdf9b.png" />](https://www.prisma.io/)
 [<img align="left" alt="Prettier" width="28px" src="https://avatars.githubusercontent.com/u/25822731?s=280&v=4" />](https://prettier.io/)
 [<img align="left" alt="DataGrip" width="26px" src="https://seeklogo.com/images/D/datagrip-logo-295CA63255-seeklogo.com.png" />](https://www.jetbrains.com/datagrip/)
-
+[<img align="left" alt="DataGrip" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eslint-logo-png-transparent.png
+" />](https://eslint.org/)
 
 
 <!--   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />

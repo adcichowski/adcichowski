@@ -10,10 +10,14 @@
  spend a lot of time programming to get knowledge and experience.
  
 
+
+
  <img src="https://github.com/adcichowski/adcichowski/blob/main/blogging.svg" align='right' width="420">
  
 ## Code with
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://www.typescriptlang.org) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://reactjs.org)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://nodejs.org)[![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)](https://developer.mozilla.org/docs/HTML/HTML5) [![SCSS Badge](https://img.shields.io/badge/-SCSS-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](https://sass-lang.com)
+
+
 
 
 [<img align="left" alt="Next.js" width="26px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />](https://nextjs.org)

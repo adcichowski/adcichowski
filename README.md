@@ -15,7 +15,7 @@
  I have a passion for programming and technology,
  spend a lot of time programming to get knowledge and experience.
  I increase my skills to be more valuable in business, soon I will be teaching other people.
- My wishes are to be a great full-stack developer and play guitar 🚀 🎸 
+ My wishes are to be a great full-stack developer.
 
 
 ## Code with
